@@ -1,0 +1,4 @@
+C:\Users\jose3\OneDrive\Desktop\IT 2040\OOPInheritance\obj\Debug\net8.0\OOPInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose3\OneDrive\Desktop\IT 2040\OOPInheritance\obj\Debug\net8.0\OOPInheritance.AssemblyInfoInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\OOPInheritance\obj\Debug\net8.0\OOPInheritance.AssemblyInfo.cs
+C:\Users\jose3\OneDrive\Desktop\IT 2040\OOPInheritance\obj\Debug\net8.0\OOPInheritance.csproj.CoreCompileInputs.cache

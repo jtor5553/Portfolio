@@ -1,0 +1,4 @@
+C:\Users\jose3\OneDrive\Desktop\IT 2040\MealTime\obj\Debug\net8.0\MealTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose3\OneDrive\Desktop\IT 2040\MealTime\obj\Debug\net8.0\MealTime.AssemblyInfoInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\MealTime\obj\Debug\net8.0\MealTime.AssemblyInfo.cs
+C:\Users\jose3\OneDrive\Desktop\IT 2040\MealTime\obj\Debug\net8.0\MealTime.csproj.CoreCompileInputs.cache
