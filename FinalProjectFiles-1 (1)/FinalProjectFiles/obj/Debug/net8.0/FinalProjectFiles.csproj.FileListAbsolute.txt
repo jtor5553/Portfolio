@@ -1,0 +1,14 @@
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\bin\Debug\net8.0\FinalProjectFiles.exe
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\bin\Debug\net8.0\FinalProjectFiles.deps.json
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\bin\Debug\net8.0\FinalProjectFiles.runtimeconfig.json
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\bin\Debug\net8.0\FinalProjectFiles.dll
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\bin\Debug\net8.0\FinalProjectFiles.pdb
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.AssemblyInfoInputs.cache
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.AssemblyInfo.cs
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.csproj.CoreCompileInputs.cache
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.dll
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\refint\FinalProjectFiles.dll
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.pdb
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\FinalProjectFiles.genruntimeconfig.cache
+C:\Users\jose3\OneDrive\Desktop\School Work\IT 2040\FinalProjectFiles\obj\Debug\net8.0\ref\FinalProjectFiles.dll

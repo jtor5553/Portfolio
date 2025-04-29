@@ -1,0 +1,14 @@
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.exe
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.deps.json
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.runtimeconfig.json
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\bin\Debug\net8.0\AnalyzeMusicPlaylist.pdb
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.AssemblyInfo.cs
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\refint\AnalyzeMusicPlaylist.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.pdb
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\AnalyzeMusicPlaylist.genruntimeconfig.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\AnalyzeMusicPlaylist\obj\Debug\net8.0\ref\AnalyzeMusicPlaylist.dll

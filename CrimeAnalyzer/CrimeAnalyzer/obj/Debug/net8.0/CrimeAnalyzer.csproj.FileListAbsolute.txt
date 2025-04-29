@@ -1,0 +1,14 @@
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.exe
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.deps.json
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.runtimeconfig.json
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\bin\Debug\net8.0\CrimeAnalyzer.pdb
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.AssemblyInfo.cs
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\refint\CrimeAnalyzer.dll
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.pdb
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\CrimeAnalyzer.genruntimeconfig.cache
+C:\Users\jose3\OneDrive\Desktop\IT 2040\CrimeAnalyzer\obj\Debug\net8.0\ref\CrimeAnalyzer.dll
